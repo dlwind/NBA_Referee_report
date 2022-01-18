@@ -1,4 +1,4 @@
-'referee_mistake.py' is sample code that scraps data from online NBA referee reports.
+'referee_mistake.py' is sample code that extracts data from online NBA referee reports.
 It reads link urls from 'link_per_game.xlsx' and saves all correct/incorrect calls and non-calls from the each report into 'referee_mistake.xlsx'
 
 NBA referee report is the league's assessment of officiated events that occurred in the last two minutes of last night's games that were at or within three points during any point in the last two-minutes of the fourth quarter (and overtime, where applicable). 
